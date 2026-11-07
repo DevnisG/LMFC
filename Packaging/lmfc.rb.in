@@ -4,7 +4,7 @@ cask "lmfc" do
 
   url "https://github.com/DevnisG/LMFC/releases/download/v#{version}/LMFC-#{version}-macos-arm64.dmg"
   name "LMFC!"
-  desc "Pause MacBook input and darken displays for cleaning"
+  desc "Block MacBook input and black out displays for cleaning"
   homepage "https://github.com/DevnisG/LMFC"
 
   depends_on arch: :arm64

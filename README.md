@@ -30,7 +30,8 @@ Descargá el DMG de la [versión v1.0.0](https://github.com/DevnisG/LMFC/release
 También podés instalar LMFC! con Homebrew.
 
 ```sh
-brew install --cask devnisg/tap/lmfc
+brew tap devnisg/lmfc https://github.com/DevnisG/LMFC.git
+brew install --cask devnisg/lmfc/lmfc
 ```
 
 El DMG y la app usan firma ad hoc. Si macOS bloquea la primera apertura, revisá el aviso en **Configuración del Sistema → Privacidad y seguridad** antes de elegir **Abrir igualmente**. Tras una actualización, macOS puede volver a pedir los permisos de entrada.
@@ -96,7 +97,8 @@ Download the [v1.0.0 DMG](https://github.com/DevnisG/LMFC/releases/tag/v1.0.0) a
 You can also install LMFC! with Homebrew.
 
 ```sh
-brew install --cask devnisg/tap/lmfc
+brew tap devnisg/lmfc https://github.com/DevnisG/LMFC.git
+brew install --cask devnisg/lmfc/lmfc
 ```
 
 The DMG and app use ad hoc signatures. If macOS blocks the first launch, review the warning in **System Settings → Privacy & Security** before choosing **Open Anyway**. macOS may ask for input permissions again after an update.
