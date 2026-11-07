@@ -1,0 +1,3 @@
+ARCHS = arm64
+CODE_SIGN_IDENTITY = -
+#include? "LocalSigning.xcconfig"

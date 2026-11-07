@@ -1,0 +1,566 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%lld s": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld s"
+          }
+        }
+      }
+    },
+    "%lld seconds": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld segundos"
+          }
+        }
+      }
+    },
+    "%lld seconds remaining": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quedan %lld segundos"
+          }
+        }
+      }
+    },
+    "A secure input field is active. Leave the field and try again.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hay un campo de entrada segura activo. Sal de ese campo e inténtalo de nuevo."
+          }
+        }
+      }
+    },
+    "Allow Accessibility": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permitir Accesibilidad"
+          }
+        }
+      }
+    },
+    "Allow Input Monitoring": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permitir Monitorización de entrada"
+          }
+        }
+      }
+    },
+    "Black Screen": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pantalla negra"
+          }
+        }
+      }
+    },
+    "Block Trackpad": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bloquear trackpad"
+          }
+        }
+      }
+    },
+    "Block Trackpad for 30 Seconds?": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¿Bloquear el trackpad durante 30 segundos?"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancelar"
+          }
+        }
+      }
+    },
+    "Cleaning Guide": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guía de limpieza"
+          }
+        }
+      }
+    },
+    "Cleaning Mode": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modo de limpieza"
+          }
+        }
+      }
+    },
+    "Copy App Path": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copiar ruta"
+          }
+        }
+      }
+    },
+    "Developed by DevnisG": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desarrollado por DevnisG"
+          }
+        }
+      }
+    },
+    "Display": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pantalla"
+          }
+        }
+      }
+    },
+    "Duration": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Duración"
+          }
+        }
+      }
+    },
+    "End Cleaning": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terminar limpieza"
+          }
+        }
+      }
+    },
+    "End Cleaning · ⌘⌥⇧U": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terminar limpieza · ⌘⌥⇧U"
+          }
+        }
+      }
+    },
+    "If macOS asks you to quit and reopen LMFC, follow that prompt.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Si macOS te pide que cierres y vuelvas a abrir LMFC, sigue esa indicación."
+          }
+        }
+      }
+    },
+    "In Privacy & Security → Accessibility, turn on LMFC. If it’s missing, click + and choose this copy.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En Privacidad y seguridad → Accesibilidad, activa LMFC. Si no aparece, pulsa + y selecciona esta copia."
+          }
+        }
+      }
+    },
+    "In Privacy & Security → Input Monitoring, turn on LMFC. If it’s missing, click + and choose this copy.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "En Privacidad y seguridad → Monitorización de entrada, activa LMFC. Si no aparece, pulsa + y selecciona esta copia."
+          }
+        }
+      }
+    },
+    "Keyboard": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teclado"
+          }
+        }
+      }
+    },
+    "Keyboard filter verified": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Filtro del teclado verificado"
+          }
+        }
+      }
+    },
+    "Keyboard paused": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Teclado bloqueado"
+          }
+        }
+      }
+    },
+    "LMFC!": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "LMFC!"
+          }
+        }
+      }
+    },
+    "Language": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Idioma"
+          }
+        }
+      }
+    },
+    "Let Me F*cking Clean": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Let Me F*cking Clean"
+          }
+        }
+      }
+    },
+    "More cleaning details": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Más detalles de limpieza"
+          }
+        }
+      }
+    },
+    "Move or click the trackpad to check the filter. ⌘⌥⇧U releases it.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mueve el cursor o haz clic para verificar el filtro. ⌘⌥⇧U libera el trackpad."
+          }
+        }
+      }
+    },
+    "No Limit": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sin límite"
+          }
+        }
+      }
+    },
+    "Opens the DevnisG GitHub profile": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abre el perfil de DevnisG en GitHub"
+          }
+        }
+      }
+    },
+    "Paste this path with Command–Shift–G in the Add App dialog": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pega esta ruta con Comando–Mayúsculas–G en el diálogo para añadir una app"
+          }
+        }
+      }
+    },
+    "Pause input while you clean your Mac.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bloquea los controles mientras limpias tu Mac."
+          }
+        }
+      }
+    },
+    "Press a letter key to verify the filter.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Presiona una letra para verificar el filtro."
+          }
+        }
+      }
+    },
+    "Press ⌘⌥⇧U to end cleaning and restore input.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Presioná ⌘⌥⇧U para terminar la limpieza y restaurar los controles."
+          }
+        }
+      }
+    },
+    "Press ⌘⌥⇧U to end cleaning.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Presioná ⌘⌥⇧U para terminar la limpieza."
+          }
+        }
+      }
+    },
+    "Press ⌘⌥⇧U to release the trackpad early. The keyboard stays paused until you click Stop Cleaning or the timer ends. Mouse input may also be blocked.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Presiona ⌘⌥⇧U para liberar el trackpad antes de tiempo. El teclado seguirá bloqueado hasta que pulses Terminar limpieza o se agote el tiempo. También puede bloquearse el ratón."
+          }
+        }
+      }
+    },
+    "Show LMFC in Finder": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mostrar en Finder"
+          }
+        }
+      }
+    },
+    "Start Cleaning": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Iniciar limpieza"
+          }
+        }
+      }
+    },
+    "Start Cleaning Without a Timer?": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¿Empezar la limpieza sin temporizador?"
+          }
+        }
+      }
+    },
+    "Stop Cleaning": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terminar limpieza"
+          }
+        }
+      }
+    },
+    "The displays go black and the trackpad is blocked for up to 30 seconds. Press ⌘⌥⇧U to restore the displays and trackpad.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las pantallas se pondrán en negro y el trackpad se bloqueará hasta 30 segundos. Presiona ⌘⌥⇧U para recuperar las pantallas y el trackpad."
+          }
+        }
+      }
+    },
+    "The displays stay black until the timer ends. Click or press ⌘⌥⇧U to restore them early.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las pantallas quedarán en negro hasta que se agote el tiempo. Haz clic o presiona ⌘⌥⇧U para recuperarlas antes."
+          }
+        }
+      }
+    },
+    "The filter wasn’t verified. Start again and press a letter when prompted.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No se pudo verificar el filtro. Inicia otra sesión y presiona una letra cuando se te indique."
+          }
+        }
+      }
+    },
+    "Time to Cleaning": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tiempo de Limpieza"
+          }
+        }
+      }
+    },
+    "Touch ID can still lock your Mac.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Touch ID aún puede bloquear la pantalla."
+          }
+        }
+      }
+    },
+    "Trackpad": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trackpad"
+          }
+        }
+      }
+    },
+    "Trackpad available · Keyboard paused": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trackpad disponible · Teclado bloqueado"
+          }
+        }
+      }
+    },
+    "Trackpad blocked · Press ⌘⌥⇧U to release": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trackpad bloqueado · Presiona ⌘⌥⇧U para liberarlo"
+          }
+        }
+      }
+    },
+    "Turn the Displays Black?": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "¿Poner las pantallas en negro?"
+          }
+        }
+      }
+    },
+    "Unlock Trackpad": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloquear trackpad"
+          }
+        }
+      }
+    },
+    "Unlock Trackpad · ⌘⌥⇧U": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Desbloquear trackpad · ⌘⌥⇧U"
+          }
+        }
+      }
+    },
+    "Wipe gently with a soft, dry cloth.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pasá un paño suave y seco."
+          }
+        }
+      }
+    },
+    "Wipe the keys with a dry, lint-free cloth.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pasá un paño seco y sin pelusa sobre las teclas."
+          }
+        }
+      }
+    },
+    "Wipe with a lint-free cloth lightly dampened with water.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usá un paño sin pelusa apenas humedecido con agua."
+          }
+        }
+      }
+    },
+    "macOS didn’t enable the keyboard filter.": {
+      "localizations": {
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS no activó el filtro del teclado."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

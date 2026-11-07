@@ -1,0 +1,27 @@
+cask "lmfc" do
+  version "@VERSION@"
+  sha256 "@SHA256@"
+
+  url "https://github.com/DevnisG/LMFC/releases/download/v#{version}/LMFC-#{version}-macos-arm64.dmg"
+  name "LMFC!"
+  desc "Pause MacBook input and darken displays for cleaning"
+  homepage "https://github.com/DevnisG/LMFC"
+
+  depends_on arch: :arm64
+  depends_on macos: :sequoia
+
+  app "LMFC.app"
+
+  uninstall quit: "com.devnisg.lmfc"
+
+  zap trash: "~/Library/Preferences/com.devnisg.lmfc.plist"
+
+  caveats do
+    unsigned_accessibility
+    <<~EOS
+      LMFC uses an ad hoc signature and is not notarized by Apple.
+      If macOS blocks the first launch, review the warning in
+      System Settings > Privacy & Security before choosing Open Anyway.
+    EOS
+  end
+end
